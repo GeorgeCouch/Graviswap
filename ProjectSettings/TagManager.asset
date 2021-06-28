@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BG
+  - Ground
+  - Coin
+  - Rocket
+  - FloorSpike
+  - CeilingSpike
+  - SpikeMonsterA
+  - SpikeMonsterB
+  - UFO
+  - UFOFast
+  - BlueAlien
+  - RedAlien
+  - SkullUFO
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - Ground
+  - Collector
+  - Items
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4141961623
+    locked: 0
+  - name: Ground
+    uniqueID: 4102307469
+    locked: 0
+  - name: Items
+    uniqueID: 2078047719
+    locked: 0
+  - name: Player
+    uniqueID: 1068417457
+    locked: 0
+  - name: Canvas
+    uniqueID: 467456173
+    locked: 0
