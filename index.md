@@ -1,6 +1,4 @@
-## All C# files are inside of Assets\Scripts
-
-## Introduction
+## Important! Go into Assets/Scripts to view C# files.
 
 Graviswap is an infinite sidescrolling game that I made in Unity. Normally in sidescolling games you just jump to avoid obstacles, but in this game you switch the player's gravity. The goal of the game is to collect as many coins as possible. Here are some images and a 30 second video demonstrating how the game looks.
 
