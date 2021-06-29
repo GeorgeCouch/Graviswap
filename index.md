@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## All C# files are inside of Assets\Scripts
 
-You can use the [editor on GitHub](https://github.com/GeorgeCouch/Graviswap/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Graviswap is an infinite sidescrolling game that I made in Unity. Normally in sidescolling games you just jump to avoid obstacles, but in this game you switch the player's gravity. The goal of the game is to collect as many coins as possible. Here are some images and a 30 second video demonstrating how the game looks.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GeorgeCouch/Graviswap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![MainMenu](https://user-images.githubusercontent.com/86444129/123879599-33b26c00-d90f-11eb-8a37-0c4917fc9b75.PNG)
+![gameplay](https://user-images.githubusercontent.com/86444129/123879604-357c2f80-d90f-11eb-9f6c-100718931c6d.PNG)
